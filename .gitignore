@@ -13,3 +13,6 @@ build/
 dist/
 lib/
 bin/
+.vscode/settings.json
+*.cmake
+*.cmake.in
