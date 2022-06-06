@@ -16,3 +16,6 @@ bin/
 .vscode/settings.json
 *.cmake
 *.cmake.in
+3rd/msgpack-c/include/msgpack/pack_template.h
+3rd/msgpack-c/include/msgpack/sysdep.h
+3rd/msgpack-c/msgpack.pc
